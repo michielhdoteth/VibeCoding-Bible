@@ -1,60 +1,31 @@
-# Prompt-Atlas
-Smarter prompts. Sharper minds. Modular AI blueprints.
+# 🚀 VibeCoding Bible: Model Context Protocol Edition
 
-PromptAtlas is a living archive of my original custom instructions, system prompts, and specialized conversational modes for AI assistants.
+## The Ultimate Guide to Model Context Protocol for AI-Enhanced Development
 
-This project compiles my personal designs to build sharper, smarter, and more adaptive AI — for coding, consulting, research, creativity, and strategic thinking.
+Welcome to the VibeCoding Bible repository - your comprehensive resource for mastering the Model Context Protocol (MCP) and implementing AI-enhanced development workflows.
 
-PromptAtlas is continuously evolving as I create and refine new methods for language-driven behavior shaping.
+![MCP Banner](resources/images/mcp-banner.png)
 
-What's Inside
-/custom-instructions/
-Instruction sets crafted to reprogram AI response behavior.
-Examples:
+## 🌟 What is MCP?
 
-Anti-Sycophant Core (truth-first assistant)
+The Model Context Protocol (MCP) is an open-source standard developed by Anthropic that provides a universal protocol for connecting AI assistants and Large Language Models (LLMs) to external data sources, tools, and systems. Think of it as the "USB-C for AI Applications" - a standardized way to connect AI models with the data and tools they need.
 
-Critical Coding Mode (error-finding assistant)
+## 📚 Repository Contents
 
-Strategic Social Assistant (structured posting and messaging)
+- **[Documentation](docs/)**: Comprehensive guides on MCP fundamentals, implementation approaches, and best practices
+- **[Examples](examples/)**: Ready-to-use code examples in Python, TypeScript, and other languages
+- **[Servers](servers/)**: Pre-built MCP servers for common use cases and integrations
+- **[Resources](resources/)**: Curated lists of MCP resources, tools, and community links
 
-/system-prompts/
-Complete system messages for initializing conversation styles and default behaviors.
-Examples:
+## 🚀 Quick Start
 
-Socratic Mode (question-first reasoning)
+```bash
+# Clone this repository
+git clone https://github.com/michielhdoteth/VibeCoding-Bible.git
 
-Strategy Mode (goal-first dialogue)
+# Install the Python MCP SDK
+pip install mcp
 
-Drill Mode (technical depth-first answering)
-
-/creative-prompts/
-Prompts designed to unlock narrative, brainstorming, or brand strategy capabilities.
-Examples:
-
-Story Weaver
-
-Brainstorm Booster
-
-How to Use
-Browse any folder.
-
-Open the .md file you want.
-
-Copy the prompt, instruction set, or system message.
-
-Paste it into your AI’s Custom Instructions, system prompt field, or conversation starter.
-
-Each design is modular — combine freely.
-
-Attribution
-All content in PromptAtlas is original and curated by [YourName].
-If you share, reuse, remix, or build upon anything from this repository, you must clearly credit [YourName] and link back to this repository.
-
-Contributing
-Contributions are welcome if they match the purpose and quality standards of the project.
-PromptAtlas focuses exclusively on prompts, custom instructions, and system messages — not full agent blueprints or API frameworks.
-
-Please see CONTRIBUTING.md (coming soon) for how to submit.
-
-
+# Try a simple example
+cd examples/python/basic
+python simple_server.py
