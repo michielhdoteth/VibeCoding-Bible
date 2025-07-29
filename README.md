@@ -42,9 +42,4 @@ Whether you're just starting your Vibe Coding journey or looking to refine your 
 *   [Integrations](integrations/README.md)
 *   [Showcase](showcase/README.md)
 
-## Resources
 
-*   [Vibe Coders on Demand](https://www.viberondemand.com/)
-*   [VibeCodeCareers](https://vibecodecareers.com/)
-*   [VibeCoders.cc](https://vibecoders.cc/)
-*   [Code Vibe](https://codevibe.ai/)
