@@ -75,6 +75,3 @@ This comprehensive Table of Contents provides a structured overview of the VibeC
     *   **Description:** A gallery of inspiring projects and innovative solutions built using Vibe Coding principles. Explore real-world examples that demonstrate the practical power and creative potential of AI-assisted development.
     *   **Files:**
         *   [`showcase/README.md`](showcase/README.md): The main showcase entry point, with contribution guidelines and conceptual project examples.
-
-
-
